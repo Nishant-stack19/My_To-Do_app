@@ -267,6 +267,9 @@ body {
 }
 
 @media (max-width: 768px) {
+    body{
+        background: url(./images/background.jpg);
+    }
     .container {
         flex-direction: column;
         padding: 10px;
